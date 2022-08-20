@@ -9,7 +9,7 @@
 ## Reach out to me
 
 <a href="https://twitter.com/chainlabs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
-<a href="https://medium.com/@chainslabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
+<a href="https://medium.com/@chainlabs1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chainlabs1&label=Profile%20views&color=0e75b6&style=flat" alt="chainlabs_" /> <a href="https://twitter.com/chainlabs_" target="blank"><img src="https://img.shields.io/twitter/follow/chainlabs_?logo=twitter&style=for-the-badge" alt="chainlabs_" /></a> 
