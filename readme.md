@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chainlabs1&label=Profile%20views&color=0e75b6&style=flat" alt="chainlabs_" /> <a href="https://twitter.com/chainlabs_" target="blank"><img src="https://img.shields.io/twitter/follow/chainlabs_?logo=twitter&style=for-the-badge" alt="chainlabs_" /></a> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=chainslabs&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
+<img src="https://github-readme-stats.vercel.app/api?username=chainlabs1&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
 - 🔭 I’m currently working on [developing new blockchain](chainslabs@gmail.com)
 
