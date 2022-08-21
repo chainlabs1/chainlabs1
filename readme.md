@@ -1,6 +1,6 @@
 <img src="https://blockchainturkey.io/wp-content/uploads/2018/02/blockchain_Z4.gif" align="right" width="400" height="300">
 
-### Hi there, ChainLabs. 
+### Hi there, Chainlabs. 
 
 ## Next generation blockchain solutions | Content Creator
 
